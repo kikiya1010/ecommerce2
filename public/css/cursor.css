@@ -1,0 +1,15 @@
+body,
+input,
+button,
+label,
+a {
+	cursor: url(../images/cursor.png), auto;
+}
+
+body:active,
+input:active,
+button:active,
+label:active,
+a:active {
+	cursor: url(../images/cursor-2.png), auto;
+}
